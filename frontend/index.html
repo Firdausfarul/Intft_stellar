@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stellar-sdk/10.0.1/stellar-sdk.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.26.1/axios.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar-freighter-api/1.1.2/index.min.js"></script>
+    <script src=script.js></script>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Stellar Account viewer</title>
+    <link rel="shortcut icon" type="image/jpg" href="https://pbs.twimg.com/media/E_Ajc_OUcAMBHZ1?format=png&name=small"/>
+  </head>
+  
+  <body>
+    <p1>Stellar Account Viewer</p1>
+    <hr>
+    <center>
+      <button id="rabeto" onclick="rabett()">Log In using Rabet</button>
+      <button id="freighter" onclick="freight()">Log In using Freighter</button>
+      <button id="red" onclick=window.location.reload()>Logout</button>
+    </center>
+
+  <h1>INTFT testnet</h1>
+<form id="theForm">
+<p>
+<button type="button" onClick="faucet()">LOVE Faucet</button>&nbsp;&nbsp;
+<button type="button" onClick="mintGenesis()">Mint Genesis</button>&nbsp;&nbsp;
+<button type="button" onClick="initialize()">Breed</button>&nbsp;&nbsp;
+<button type="button" onClick="claimNFT()">Claim NFT</button>&nbsp;&nbsp;
+</p>
+<button type="button" onClick="fetch_nft()">display NFT</button>&nbsp;&nbsp;
+</p>
+
+<table>
+  <tr>
+    <td align="right">Parent1</td>
+    <td><input type="text" id="parent1" size="80"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">Parent2</td>
+    <td><input type="text" id="parent2" size="80"/>
+    </td>
+  </tr>
+</table>
+</form>
+
+    
+  </body>
+</html>
