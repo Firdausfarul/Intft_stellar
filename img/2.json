@@ -1,0 +1,17 @@
+
+{
+    "description": "cunft",  
+    "image": "https://github.com/Firdausfarul/Intft_stellar/raw/main/img/Chile.jpg", 
+    "name": "#🇨🇱",
+    "attributes": [
+        {
+            "trait_type": "Country", 
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent", 
+            "value": "America"
+        }
+    ] 
+}
+
