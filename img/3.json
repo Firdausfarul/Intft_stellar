@@ -1,0 +1,21 @@
+
+  
+{
+    "description": "cunft",  
+    "image": "https://github.com/Firdausfarul/Intft_stellar/raw/main/img/testnft.jpg", 
+    "name": "JUARA 1 Melanggar Perintah Tuhan 3rd XXXX competition",
+    "attributes": [
+        {
+            "trait_type": "Juara", 
+            "value": "1"
+        },
+        {
+            "trait_type": "Kategori", 
+            "value": "Melanggar Perintah Tuhan"
+        },
+        {
+            "trait_type": "Series", 
+            "value": "3rd"
+        },
+    ] 
+}
