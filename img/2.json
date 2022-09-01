@@ -1,17 +1,38 @@
-
 {
-    "description": "cunft",  
-    "image": "https://github.com/Firdausfarul/Intft_stellar/raw/main/img/Sweden.jpg", 
-    "name": "#🇨🇱",
-    "attributes": [
-        {
-            "trait_type": "Country", 
-            "value": "Chile"
-        },
-        {
-            "trait_type": "Continent", 
-            "value": "America"
-        }
-    ] 
+  "year": 2022,
+  "tags": [
+    "poap",
+    "event"
+  ],
+  "name": "Paradigm CTF 2022",
+  "image_url": "https://assets.poap.xyz/paradigm-ctf-2022-2022-logo-1661818929100.png",
+  "home_url": "https://app.poap.xyz/token/5578505",
+  "external_url": "https://api.poap.tech/metadata/62691/5578505",
+  "description": "This POAP was given to those who solved at least one challenge in Paradigm CTF 2022",
+  "attributes": [
+    {
+      "value": "20-Aug-2022",
+      "trait_type": "startDate"
+    },
+    {
+      "value": "22-Aug-2022",
+      "trait_type": "endDate"
+    },
+    {
+      "value": "true",
+      "trait_type": "virtualEvent"
+    },
+    {
+      "value": "",
+      "trait_type": "city"
+    },
+    {
+      "value": "",
+      "trait_type": "country"
+    },
+    {
+      "value": "https://ctf.paradigm.xyz",
+      "trait_type": "eventURL"
+    }
+  ]
 }
-
